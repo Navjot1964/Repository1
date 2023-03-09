@@ -1,2 +1,2 @@
-Hello, 
+Hi, 
 This is first file in repository 1
